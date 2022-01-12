@@ -8,11 +8,13 @@ Two constraints:
 - Do not modify the array
 - Use constant extra space only
 
-Solution 1:
-Binary search
+Solution 1: \
+Binary search \
+Complexity: O(n * log(n))
 
-Solution 2: 
-Slow and fast pointers
+Solution 2: \
+Slow and fast pointers (Floyd's algorithm) \
+Complexity: O(n)
 
 Tags:
 - binary search
