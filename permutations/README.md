@@ -15,10 +15,5 @@ Therefore, we get O(N * N!) complexity.
 Memory: \
 O(N!) for the solution and O(N) for recursion stack.
 
-
-Solution 2: \
-Slow and fast pointers (Floyd's algorithm) \
-Complexity: O(n)
-
 Tags:
 - backtracking
